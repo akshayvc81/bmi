@@ -1,0 +1,21 @@
+*{
+    font-family: "New Amsterdam", sans-serif; 
+}
+body{
+    background-image: url(https://www.cdc.gov/bmi/media/images/2024/04/bmi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+    padding-top: 130px;
+}
+button{
+    width: 120px;
+}
+.row{
+padding: 10px;
+}
+div h2{
+    font-size: 22px;
+    color: rgb(19, 56, 87);
+}
+ 
